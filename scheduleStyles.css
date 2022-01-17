@@ -160,14 +160,14 @@ span {
 		[time-1100] auto
 		[time-1130] auto
 		[time-1200] auto
-        [time-1230] auto
-        [time-1300] auto
-        [time-1330] auto
-        [time-1400] auto
-        [time-1430] auto
-        [time-1500] auto
-        [time-1530] auto
-	;
+        	[time-1230] auto
+        	[time-1300] auto
+        	[time-1330] auto
+        	[time-1400] auto
+        	[time-1430] auto
+        	[time-1500] auto
+        	[time-1530] auto
+		;
 		grid-template-columns:
 			[times] 7em
 			[track-1-start] .5fr    			/* Monday column */
