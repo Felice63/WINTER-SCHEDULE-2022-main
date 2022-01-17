@@ -49,10 +49,10 @@ h1, h2 {
 }
 
 .schedule {
-    display: flex;
+    	display: flex;
 	flex-direction: column;
-    width:90vw;
-    margin: 2vh auto;
+    	width:90vw;
+    	margin: 2vh auto;
 	grid-gap: .5em;
 }
 
@@ -80,7 +80,7 @@ h1, h2 {
 .Wednesday {
 	grid-column: track-3;
 	position: relative;
-    top: 300px;
+    	top: 300px;
 }
 
 .Thursday {
@@ -93,9 +93,9 @@ h1, h2 {
 
 .track-slot {
 	padding: 10px 5px;
-    font-weight: bold;
-    font-size: 1.35em;
-    text-align: center;
+    	font-weight: bold;
+    	font-size: 1.35em;
+    	text-align: center;
 	background-color: #d0d0d0;
 }
 
@@ -107,7 +107,7 @@ span {
 	background-color: #687f00;
 	color: #fff;
 	position: relative;
-    top: -161px;
+    	top: -161px;
 }
 
 .mdcp-102-rne {
